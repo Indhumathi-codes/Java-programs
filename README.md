@@ -41,3 +41,5 @@ Indhumathi Ramalingam
 GitHub: https://github.com/Indhumathi-codes
 
 Thank you for visiting my repository!
+
+This repository is part of my Java programming learning journey. It contains programs that help me improve my coding and problem-solving skills.
